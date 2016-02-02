@@ -9,6 +9,12 @@ I have left in the original files for the Phaser tutorial and added my own for d
 
 We'll be working in the wdiTutorial.js for this demonstration. This file is linked to the index.html file, which is blank and will not be modified any further.
 
+For Phaser to work it needs to be run on a server. Let's start our server with python. Once you are in the tutorial directory in your termial type:
+```
+$ python -m SimpleHTTPServer
+```
+Open a new browser window and go to localhost:8000
+
 Open your wdiTutorial.js file and follow the steps below.
 
 ####Step one:
